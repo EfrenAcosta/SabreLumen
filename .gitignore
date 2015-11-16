@@ -1,0 +1,5 @@
+/vendor
+/storage
+/tests
+.env
+composer.phar
